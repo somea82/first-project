@@ -3,7 +3,7 @@ import openai
 import sys
 
 # API Key 할당 (환경변수나 다른 비밀키 관리 시스템을 활용하세요)
-openai.api_key ="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"
+openai.api_key ="개인 API key"
 
 
 #gpt에게 질문
